@@ -1,1 +1,1 @@
-# lugo-game.github.io
+# ludo-game.github.io
